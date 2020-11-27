@@ -1,12 +1,12 @@
 {
-AlertsResultData: [
-                {id:1, name:"Stuart, Dwain", text:"SEC 11/18/2020 ORDER AUTHORIZING THE TRANSFER TO THE U.S. TREASURY OF THE REMAINING FUNDS AND ANY FUNDS RETURNED TO THE FAIR FUND IN THE FUTURE AND TERMINATING THE FAIR FUND.", dateAlerted:"11-20-2020", alertType:"Alert"},
-                {id:2, name:"Stuart, Tresha", text:"this is a bad girl", dateAlerted:"11-20-2020", alertType:"Alert"},
-                {id:3, name:"Stuart, Kayla", text:"this is a bad kid", dateAlerted:"11-20-2020", alertType:"Alert"},
-                {id:4, name:"Stuart, Clay", text:"this is a bad kid", dateAlerted:"11-20-2020", alertType:"Alert"}    
+"AlertsResultData": [
+                {"id":1, "name":"Stuart, Dwain", "text":"SEC 11/18/2020 ORDER AUTHORIZING THE TRANSFER TO THE U.S. TREASURY OF THE REMAINING FUNDS AND ANY FUNDS RETURNED TO THE FAIR FUND IN THE FUTURE AND TERMINATING THE FAIR FUND.", "dateAlerted":"11-20-2020", "alertType":"Alert"},
+                {"id":2, "name":"Stuart, Tresha", "text":"this is a bad girl", "dateAlerted":"11-20-2020", "alertType":"Alert"},
+                {"id":3, "name":"Stuart, Kayla", "text":"this is a bad kid", "dateAlerted":"11-20-2020", "alertType":"Alert"},
+                {"id":4, "name":"Stuart, Clay", "text":"this is a bad kid", "dateAlerted":"11-20-2020", "alertType":"Alert"}    
             ],
-users:{
-  name: "Dwain",
-  password: "12345"
+"users":{
+  "name": "Dwain",
+  "password": "12345"
 }
 }
