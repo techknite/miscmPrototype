@@ -7,6 +7,7 @@
             ],
 "users":{
   "name": "Dwain",
-  "password": "12345"
+  "password": "12345",
+  "firmCode": "555"
 }
 }
