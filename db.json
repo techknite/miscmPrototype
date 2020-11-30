@@ -1,16 +1,51 @@
 {
-"AlertsResultData": [
-                {"id":1, "name":"Stuart, Dwain", "text":"SEC 11/18/2020 ORDER AUTHORIZING THE TRANSFER TO THE U.S. TREASURY OF THE REMAINING FUNDS AND ANY FUNDS RETURNED TO THE FAIR FUND IN THE FUTURE AND TERMINATING THE FAIR FUND.", "dateAlerted":"11-20-2020", "alertType":"Alert"},
-                {"id":2, "name":"Stuart, Tresha", "text":"this is a bad girl", "dateAlerted":"11-20-2020", "alertType":"Alert"},
-                {"id":3, "name":"Stuart, Kayla", "text":"this is a bad kid", "dateAlerted":"11-20-2020", "alertType":"Alert"},
-                {"id":4, "name":"Stuart, Clay", "text":"this is a bad kid", "dateAlerted":"11-20-2020", "alertType":"Alert"}    
-            ],
-"users":{
-  "name": "Dwain",
-  "password": "12345",
-  "firmCode": "555"
-},
-"comments":{
-[{\"CommentsID\":\"2280448\", \"AlertID\":\"1\", \"UserName\":\"Kim James\", \"CommentDate\":\"11/4/2013 12:17:13 PM\", \"CommentText\":\"Purged. Not same - different DOB. Not the same person.\", \"Action\":\"Finish\"},{\"CommentsID\":\"1035646\", \"AlertID\":\"1\", \"UserName\":\"Dwain Stuart\", \"CommentDate\":\"9/20/2011 8:40:24 AM\", \"CommentText\":\"This record appears to have issues\", \"Action\":\"Action Taken\"}]  
-}
+	"AlertsResultData": [{
+			"id": 1,
+			"name": "Stuart, Dwain",
+			"text": "SEC 11/18/2020 ORDER AUTHORIZING THE TRANSFER TO THE U.S. TREASURY OF THE REMAINING FUNDS AND ANY FUNDS RETURNED TO THE FAIR FUND IN THE FUTURE AND TERMINATING THE FAIR FUND.",
+			"dateAlerted": "11-20-2020",
+			"alertType": "Alert"
+		},
+		{
+			"id": 2,
+			"name": "Stuart, Tresha",
+			"text": "this is a bad girl",
+			"dateAlerted": "11-20-2020",
+			"alertType": "Alert"
+		},
+		{
+			"id": 3,
+			"name": "Stuart, Kayla",
+			"text": "this is a bad kid",
+			"dateAlerted": "11-20-2020",
+			"alertType": "Alert"
+		},
+		{
+			"id": 4,
+			"name": "Stuart, Clay",
+			"text": "this is a bad kid",
+			"dateAlerted": "11-20-2020",
+			"alertType": "Alert"
+		}
+	],
+	"users": {
+		"name": "Dwain",
+		"password": "12345",
+		"firmCode": "555"
+	},
+	"comments": [{
+		"CommentsID": "2280448",
+		"AlertID": "1",
+		"UserName": "Kim James",
+		"CommentDate": "11/4/2013 12:17:13 PM",
+		"CommentText": "Purged. Not same - different DOB. Not the same person.",
+		"Action": "Finish"
+	}, {
+		"CommentsID": "1035646",
+		"AlertID": "1",
+		"UserName": "Dwain Stuart",
+		"CommentDate": "9/20/2011 8:40:24 AM",
+		"CommentText": "This record appears to have issues",
+		"Action": "Action Taken"
+	}]
 }
