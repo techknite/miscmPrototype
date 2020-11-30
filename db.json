@@ -9,5 +9,8 @@
   "name": "Dwain",
   "password": "12345",
   "firmCode": "555"
+},
+"comments":{
+[{\"CommentsID\":\"2280448\", \"AlertID\":\"1\", \"UserName\":\"Kim James\", \"CommentDate\":\"11/4/2013 12:17:13 PM\", \"CommentText\":\"Purged. Not same - different DOB. Not the same person.\", \"Action\":\"Finish\"},{\"CommentsID\":\"1035646\", \"AlertID\":\"1\", \"UserName\":\"Dwain Stuart\", \"CommentDate\":\"9/20/2011 8:40:24 AM\", \"CommentText\":\"This record appears to have issues\", \"Action\":\"Action Taken\"}]  
 }
 }
